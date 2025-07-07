@@ -51,7 +51,10 @@ Edit
 ├── e_pass.sql
 
 ## 🚀 Live Demo  
-🔗 [Click here to view the live project](http://localhost/cpms/cpms/)
+📌 This is a local project.  
+🔗 [Click here to view the live project (works only on localhost)](http://localhost/cpms/cpms/)
+
+> To view the demo, follow the setup steps below and run it locally using XAMPP/WAMP.
 
 
 1.Download the zip file
