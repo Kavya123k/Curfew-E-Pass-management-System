@@ -1,4 +1,58 @@
+
+🛡️ Curfew e-Pass Management System 🛡️
+Digital solution to authorize, issue, and manage movement passes during curfews and lockdowns.
+
+📖 About the Project
+
+The Curfew e-Pass Management System is a web-based platform designed to streamline the process of applying for and issuing curfew passes. Ideal for use during emergencies like lockdowns, it ensures that only authorized personnel or citizens with valid reasons are granted movement rights.
+
+✨ Key Highlights:
+
+Easy registration & login for citizens and admins
+
+Apply for a curfew e-pass with supporting documents
+
+Admin dashboard to view, approve, or reject requests
+
+Email notifications and pass tracking features
+
+Secure, responsive, and user-friendly interface
+
+🧩 Features
+🔐 User Authentication
+📄 e-Pass Application Form
+📥 Admin Approval System
+📧 Email Confirmation
+📂 Downloadable Pass with QR Code (optional)
+📊 Reports and Pass Logs
+
+💻 Tech Stack
+Layer	Technologies Used
+Frontend	HTML5, CSS3, Bootstrap, JavaScript
+Backend	Java (Servlets & JSP), JDBC
+Database	MySQL
+Tools	Apache Tomcat, XAMPP, Git & GitHub
 How to run the Curfew e-Pass Management System Project
+
+📂 Folder Structure
+pgsql
+Copy
+Edit
+📁 curfew-e-pass-system/
+├── 📁 src/
+│   ├── DBConnection.java
+│   ├── LoginServlet.java
+│   └── ApproveServlet.java
+├── 📁 WebContent/
+│   ├── index.jsp
+│   ├── applyPass.jsp
+│   ├── adminDashboard.jsp
+│   └── css/, js/, images/
+├── e_pass.sql
+
+## 🚀 Live Demo  
+🔗 [Click here to view the live project](http://localhost/cpms/cpms/)
+
 
 1.Download the zip file
 
